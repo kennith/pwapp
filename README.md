@@ -1,3 +1,15 @@
+# Comments
+
+I just completed the progressive web app Code Lab. 
+
+One of the ideas of progressive web app is to make the web application more like a native application. 
+
+The hardest part of progressive web app is probably the service worker. It requires some planning on what needs to be cached, what needs to update, and how to handle the updated service worker. The good part is there is sw-toolbox and sw-precache to help handling these situation.
+
+Anyway, the last step of the code lab introduces Firebase. I tried it and it's amazingly fast and easy. If you need to deploy static web pages, Firebase will definitely make your deployment A LOT easier. 
+
+---
+
 # Your first Progressive Web App Code Lab
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
